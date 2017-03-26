@@ -1,0 +1,7 @@
+sample code of JDBC
+
+・Compile
+	javac -cp mysql-connector-java-5.1.40-bin.jar:. MySQLConnector.java
+
+・execute
+	java -cp mysql-connector-java-5.1.40-bin.jar:. MySQLConnector
